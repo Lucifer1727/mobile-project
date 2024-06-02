@@ -18,7 +18,7 @@ const down = () => {
         </div>
         <div className="bg-black ml-[135px] w-[50vw] rounded-[8px] text-white ">
           <div className="hidden sm:flex justify-end">
-            <div className="">
+            <div className="ml-20">
               <h1 className="font-bold text-[44px] pt-[100px]">
                 Ready TO Get Started ?
               </h1>
