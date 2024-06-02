@@ -7,7 +7,7 @@ const Faq = () => {
           <h1 className="">Frequently Asked</h1>
           <h1>Questions</h1>
         </div>
-        <div className="grid grid-flow-col gap-2 grid-cols-1 grid-rows-6 sm:grid-cols-2 sm:grid-rows-3 justify-items-center">
+        <div className="grid grid-flow-col gap-28 grid-cols-1 grid-rows-6 sm:grid-cols-2 sm:grid-rows-3 justify-items-center">
           <div className="bg-[#ff5555] sm:text-white w-[250px] sm:w-[535px] rounded-lg p-2">
             <h2 className="font-semibold sm:text-[28px]">
               The Best Financial Accounting App Ever!
