@@ -48,7 +48,7 @@ const footer = () => {
             <li></li>
           </ul>
         </div>
-        <button className="bg-black w-[160px] h-[61px] text-white">
+        <button className="bg-black w-[160px] h-[61px] ml-[10vw] text-white">
           Subscribe
         </button>
       </div>
